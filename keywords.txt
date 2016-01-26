@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map for CumulStats
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CumulStats     KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+reset  KEYWORD2
+add    KEYWORD2
+n      KEYWORD2
+min    KEYWORD2
+max    KEYWORD2
+mean   KEYWORD2
+std    KEYWORD2
+var    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
